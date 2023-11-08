@@ -1,0 +1,20 @@
+/* Color palette: #FFFFF, #D8DAD6, #F0EFE9, #524F51, #DFDDD1 */
+
+
+/* Set size for mobile phone */
+@media only screen and (max-width: 480px) {
+
+}
+/*  Set size for tablet */
+@media only screen and (min-width: 480px) {
+    
+}
+/* Set size for desktop */
+@media screen and (min-width: 769px) {
+
+}
+
+/* Set size for large desktop screens */
+@media screen and (min-width: 1025px) {
+
+}
